@@ -31,7 +31,7 @@ Este projeto foi um **desafio proposto pelo meu professor** no curso de JavaScri
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](thumbnail-galeria-pokemon.png)
+![Mobile1](thumbnail-pokemon.png)
 
 ---
 
